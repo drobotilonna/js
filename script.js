@@ -1,13 +1,5 @@
-let a = 'true'
-let b ='354'
-let c =true
-let d =false
-let e =4567890
-let f =9876654
+let first = prompt ('Введите 1 число');
+let second = prompt ('Введите 2 число');
 
-console.log( a )
-console.log( b )
-console.log( c )
-console.log( d)
-console.log( e )
-console.log( f)
+let m = [first * second]
+console.log(m);
